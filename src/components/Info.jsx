@@ -11,7 +11,7 @@ import LinkedIn from "../assets/linkedin.svg"
             <h3 className="info--title">Frontend Developer</h3>
             <h3 className="info--email">briandave771@gmail.com</h3>
             <a href="#" className="btn info--btn_email">
-                <img src={Mail}  className="img--svg"/>Email</a>
+                <img src={Mail} className="img--svg"/>Email</a>
             <a href="#" className="btn info--btn_linkedin">
                 <img src={LinkedIn} className="img--svg"/>LinkedIn</a>
     

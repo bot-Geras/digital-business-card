@@ -14,10 +14,7 @@ function App() {
         <About />
         <Intrests />
         <Footer />
-        
-
       </div>
-
     </div>
   )
 }
