@@ -1,7 +1,7 @@
 import React from "react";
 import MeImage from "../assets/me.png"
-import Mail from "../assets/Mail.svg"
-import LinkedIn from "../assets/Linkedin.svg"
+import Mail from "../assets/mail.svg"
+import LinkedIn from "../assets/linkedin.svg"
 
  function Info() {
     return (
